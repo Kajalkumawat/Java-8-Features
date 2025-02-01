@@ -1,0 +1,13 @@
+java 8 features :
+
+1)lambda interface
+2)functional interface
+3)default methods and static methods 
+4)predefined functional interfaces
+5)double colon operator(::)
+	method refrence 
+	constructor refrence 
+6)streams 
+7)date and time API
+8)optional class
+9)norshorn javascript engine 
