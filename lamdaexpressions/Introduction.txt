@@ -1,0 +1,47 @@
+Lamda Expressions :
+->to benefit of functional programming into java 
+
+what is lamda expression :
+->it is anonymous function
+	anonymous means nameless
+	without return type 
+	without modifers 
+
+very very very easy 
+-----------------------------------------------------
+public void m1(){
+
+	System.out.println("Hello World");
+
+}
+------------------------------------------------
+it is removing return type and method name and acccess modifer 
+()->
+{
+
+	System.out.println("Hello World");
+
+}
+
+now remove curly bracket this is called lamda expression 
+()-> System.out.println("Hello ");
+---------------------------------------------------------
+Example2 :
+
+public void m1(int a,int b){
+
+	System.out.println(a+b);
+
+}
+
+(a,b)->{ System.out.println(a+b); }
+------------------------------------------------
+Example3 :
+
+public int squareIt(int n){
+
+	return n*n;
+
+}
+
+----------------------------
