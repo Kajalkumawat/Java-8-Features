@@ -1,0 +1,10 @@
+diffrence between anonymous inner class and lamda exppressions :
+anonymous inner class :
+->anonymous inner class can extend a normal class
+->anonymous inner class can extend an abstract class 
+->anonymous inner class implement an interface which contains any number of abstract methods 
+
+lamda expression :
+->lamda exppressions can implement an interface which contains a single abstract method(FI) 
+
+anonymous inner class is not lamda expressions but anonymous can create lamda expressions but lamda expressions does not create anonymous inner class 
